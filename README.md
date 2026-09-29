@@ -15,8 +15,8 @@ A repository tracking my learning journey through the **GO API Essential** cours
 ## 🗺️ Course Syllabus & Progress
 
 ### Phase 1: Go Basics
-- [ ] Introduction to Go and Installation
-- [ ] Working with Go Modules and Go Packages
+- [x] Introduction to Go and Installation
+- [x] Working with Go Modules and Go Packages
 
 ### Phase 2: Basic Programming
 - [ ] Variables & Data Types
