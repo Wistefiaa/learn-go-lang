@@ -19,7 +19,7 @@ A repository tracking my learning journey through the **GO API Essential** cours
 - [x] Working with Go Modules and Go Packages
 
 ### Phase 2: Basic Programming
-- [ ] Variables & Data Types
+- [x] Variables & Data Types
 - [ ] Control Structures (If-else, Switch, For)
 - [ ] Data Structures (Array, Slice, Map, Struct)
 - [ ] Functions & Pointers
