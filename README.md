@@ -20,7 +20,7 @@ A repository tracking my learning journey through the **GO API Essential** cours
 
 ### Phase 2: Basic Programming
 - [x] Variables & Data Types
-- [ ] Control Structures (If-else, Switch, For)
+- [x] Control Structures (If-else, Switch, For)
 - [ ] Data Structures (Array, Slice, Map, Struct)
 - [ ] Functions & Pointers
 - [ ] Error Handling
